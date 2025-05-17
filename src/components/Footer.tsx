@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="container mx-auto px-4 py-8">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
-            <h3 className="text-lg font-bold text-shop-primary mb-4">ShopHub</h3>
+            <h3 className="text-lg font-bold text-shop-primary mb-4">LoxxShop</h3>
             <p className="text-gray-600 text-sm">
               Your one-stop shop for quality products at affordable prices.
             </p>
@@ -71,14 +71,14 @@ const Footer = () => {
             <address className="not-italic text-gray-600 text-sm">
               <p>123 E-Commerce St.</p>
               <p>Shopping City, SC 12345</p>
-              <p className="mt-2">info@shophub.com</p>
+              <p className="mt-2">info@LoxxShop.com</p>
               <p>(123) 456-7890</p>
             </address>
           </div>
         </div>
         
         <div className="border-t border-gray-200 mt-8 pt-6 text-center text-gray-500 text-sm">
-          &copy; {new Date().getFullYear()} ShopHub. All rights reserved.
+          &copy; {new Date().getFullYear()} LoxxShop. All rights reserved.
         </div>
       </div>
     </footer>

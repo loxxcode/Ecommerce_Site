@@ -6,13 +6,13 @@ import { Button } from '@/components/ui/button';
 const About = () => {
   return (
     <div className="container mx-auto px-4 py-8">
-      <h1 className="text-3xl font-bold mb-8">About ShopHub</h1>
+      <h1 className="text-3xl font-bold mb-8">About LoxxShop</h1>
       
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-16">
         <div>
           <h2 className="text-2xl font-bold mb-4">Our Story</h2>
           <p className="text-gray-700 mb-4">
-            Founded in 2023, ShopHub began with a simple mission: to create an online shopping experience 
+            Founded in 2023, LoxxShop began with a simple mission: to create an online shopping experience 
             that's both enjoyable and secure. We believe that shopping online should be easy, fun, and 
             worry-free.
           </p>
@@ -30,7 +30,7 @@ const About = () => {
         <div className="relative">
           <img
             src="https://images.unsplash.com/photo-1560179406-1c6c60e0dc76?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
-            alt="About ShopHub"
+            alt="About LoxxShop"
             className="rounded-lg shadow-lg"
           />
         </div>
@@ -70,9 +70,9 @@ const About = () => {
         <h2 className="text-2xl font-bold mb-6">Our Team</h2>
         
         <p className="text-gray-700 mb-8">
-          The ShopHub team is made up of passionate individuals who are dedicated to creating the best 
+          The LoxxShop team is made up of passionate individuals who are dedicated to creating the best 
           online shopping experience possible. From our product curators to our customer service 
-          representatives, everyone plays a vital role in bringing ShopHub to life.
+          representatives, everyone plays a vital role in bringing LoxxShop to life.
         </p>
         
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
